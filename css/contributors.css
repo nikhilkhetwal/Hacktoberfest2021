@@ -271,7 +271,7 @@ a:hover {
   transition: 0.4s;
 }
 .slider:before {
-  background-color: rgb(255, 209, 4);
+  background-color: rgb(37, 37, 36);
   bottom: 4px;
   content: "";
   height: 24px;
